@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there👋
 
-<!--
-**Print-TesteServer/Print-TesteServer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####  :bearded_person: About me:
 
-Here are some ideas to get you started:
+My name is Matheus dos Santos Ferreira, I'm a Christian, I'm 18 years old.
+Seek knowledge in the TI area, programmer, Game Developer and WEB Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### :man_student: Academic formation
+
+- Studying Computer Science | [UNIP](https://www.unip.br/)
+- Mechatronic technician | ETEC METAL
+- High school | E.E. Professor Riolando Canno
+
+#### 🌱 I’m currently learning:
+
+- Python
+- Portugol
+- Html e Css
+
+#### ⚡ Fun fact:
+
+- 💬 Ask me about: Whatever you want, I just don't guarantee that I'll know how to answer you. :monocle_face:
+ 
+##### :video_game: Games:
+
+- Team Fortress 2 
+- Starcraft II
+
+##### 😄 Nicknames:
+- Mathias
+- TesteServer | Steam and Battle.net
