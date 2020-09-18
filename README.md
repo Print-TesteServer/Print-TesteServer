@@ -11,13 +11,13 @@ Seek knowledge in the IT area, programmer, Game Developer and WEB Developer.
 - Studying Computer Science | [UNIP](https://www.unip.br/)
 - Mechatronic technician | ETEC METAL
 - High school | E.E. Professor Riolando Canno
-***
+
 #### 🌱 I’m currently learning:
 
 - Python
 - Portugol
 - Html e Css
-***
+
 #### ⚡ Fun fact:
 
 - 💬 Ask me about: Whatever you want, I just don't guarantee that I'll know how to answer you. :monocle_face:
