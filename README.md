@@ -1,5 +1,10 @@
 ### Hi there👋
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Print-TesteServer)](https://github.com/Print-TesteServer)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Matheus/)](https://www.linkedin.com/in/ferreir4/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Major_Ferreira)](https://twitter.com/Major_Ferreira)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/MatheusdosS.Ferreira)](https://www.youtube.com/channel/UCPPFONr2odWSYOtCjPuhDCA?view_as=subscriber)
+
 ####  :bearded_person: About me:
 
 My name is Matheus dos Santos Ferreira, I'm a Christian, I'm 18 years old.
