@@ -32,6 +32,9 @@ Seek knowledge in the IT area, programmer, Game Developer and WEB Developer.
 
 - Team Fortress 2 
 - Starcraft II
+- LoL
+- Valorant
+- CS GO
 
 ##### 😄 Nicknames:
 - Mathias
