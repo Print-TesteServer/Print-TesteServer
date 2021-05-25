@@ -35,5 +35,5 @@ Seek knowledge in the IT area, programmer, Game Developer and WEB Developer.
 
 ##### 😄 Nicknames:
 - Mathias
-- TesteServer | Steam and Battle.net
+- Malquiel
 ***
