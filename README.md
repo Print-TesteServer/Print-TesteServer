@@ -40,3 +40,4 @@ Seek knowledge in the IT area, programmer, Game Developer and WEB Developer.
 - Mathias
 - Malquiel
 ***
+![Snake animation](https://github.com/Print-TesteServer/Print-TesteServer/blob/output/github-contribution-grid-snake.svg)
