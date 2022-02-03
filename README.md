@@ -1,50 +1,24 @@
-### Hi there👋
+### Hi there 👋:bearded_person:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Print-TesteServer)](https://github.com/Print-TesteServer)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Matheus/)](https://www.linkedin.com/in/ferreir4/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Major_Ferreira)](https://twitter.com/Major_Ferreira)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F.svg?&style=flat-square&labelColor=23E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/user/Major_Ferreira)](https://www.instagram.com/major_ferreira/)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/MatheusdosS.Ferreira)](https://www.youtube.com/channel/UCPPFONr2odWSYOtCjPuhDCA?view_as=subscriber)
-
-####  :bearded_person: About me:
-
-My name is Matheus dos Santos Ferreira, I'm a Christian, I'm 19 years old.
-Seek knowledge in the IT area, programmer, Game Developer and WEB Developer.
-- :round_pushpin: São Paulo | SP - Brasil
-***
-#### :man_student: Academic formation
-
-- Studying Computer Science | [UNIP](https://www.unip.br/)
-- Mechatronic technician | ETEC METAL
-- High school | E.E. Professor Riolando Canno
-
-#### 🌱 I’m currently learning:
-
-- Python 3
-- Java
-- C, C++, C#
-
-- MySQL
-- SQL Server
-- .NET
-
-- Html 5 e CSS 3
-- JavaScript
-
-#### ⚡ Fun fact:
-
-- 💬 Ask me about: Whatever you want, I just don't guarantee that I'll know how to answer you. :monocle_face:
+<div align="center">
+  <a href="https://github.com/Print-TesteServer">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Print-TesteServer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Print-TesteServer&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+ <img align="center" alt="Print-TesteServer-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Print-TesteServer-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Print-TesteServer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Print-TesteServer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Print-TesteServer-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ </div>
  
-##### :video_game: Games:
-
-- Team Fortress 2 
-- Starcraft II
-- LoL
-- Valorant
-- CS GO
-
-##### 😄 Nicknames:
-- Mathias
-- Malquiel
-***
+ ***
+ 
+ <div> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/Major_Ferreira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/Ferreir4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
 ![Snake animation](https://github.com/Print-TesteServer/Print-TesteServer/blob/output/github-contribution-grid-snake.svg)
