@@ -8,7 +8,7 @@
 
 ####  :bearded_person: About me:
 
-My name is Matheus dos Santos Ferreira, I'm a Christian, I'm 18 years old.
+My name is Matheus dos Santos Ferreira, I'm a Christian, I'm 19 years old.
 Seek knowledge in the IT area, programmer, Game Developer and WEB Developer.
 - :round_pushpin: São Paulo | SP - Brasil
 ***
@@ -20,9 +20,16 @@ Seek knowledge in the IT area, programmer, Game Developer and WEB Developer.
 
 #### 🌱 I’m currently learning:
 
-- Python
-- Portugol
-- Html e Css
+- Python 3
+- Java
+- C, C++, C#
+
+- MySQL
+- SQL Server
+- .NET
+
+- Html 5 e CSS 3
+- JavaScript
 
 #### ⚡ Fun fact:
 
