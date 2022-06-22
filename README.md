@@ -42,7 +42,7 @@
 
 ###
 
-<p><b><align="center">Hello World!!</b></p>
+<p align="center">Hello World!!</p>
 
 ###
 
