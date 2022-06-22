@@ -38,7 +38,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/Print-TesteServer/Print-TesteServer/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
