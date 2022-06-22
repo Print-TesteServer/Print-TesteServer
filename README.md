@@ -51,5 +51,3 @@
 </div>
 
 ###
-
-![Print-TesteServer](https://github.com/Print-TesteServer/Print-TesteServer/blob/master/fast-typing.gif?raw=true)
