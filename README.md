@@ -43,11 +43,3 @@
 ###
 
 <p align="center">Hello World!!</p>
-
-###
-
-<div align="center">
-  #<img src="https://profile-counter.glitch.me/Print-TesteServer/count.svg?"  />
-</div>
-
-###
