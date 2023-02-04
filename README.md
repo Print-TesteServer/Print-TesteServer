@@ -5,7 +5,7 @@
  
 ###
 
-<img align="right" width=450 height="230" src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif"  />
+<img align="right" width=450 height="225" src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif"  />
 
 ###
 ## Conhecimentos:
