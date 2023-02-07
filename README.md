@@ -12,8 +12,8 @@
 </div>
  
 ###
- AS
-<img align="right" width=450 height="222,5" src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif"  />
+ 
+<img align="right" width="350" height="180" src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif"  />
  
 ###
  
