@@ -13,7 +13,7 @@
  
 ###
  
-<img align="right" width="400" src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif"  />
+<img align="right" width="350" src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif"  />
  
 ###
  
