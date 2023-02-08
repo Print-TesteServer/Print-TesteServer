@@ -1,4 +1,5 @@
-<h2 align="left">👋:bearded_person: Olá! Me chamo Matheus e sou um Desenvolvedor Python</h2>
+<h2 align="left">👋:bearded_person: Olá! Me chamo Matheus</h2>
+<h3> Sou um Desenvolvedor Python | Django</h3>
 <li> Estudante de Ciência da Computação | UNIP </li>
 <li> Amo Programação, automação de tarefas e jogos </li>
 <li> Atualmente estudando SQL, HTML, CSS e JavaScript </li>
