@@ -3,6 +3,17 @@
 <li> Estudante de Ciência da Computação | UNIP </li>
 <li> Amo Programação, automação de tarefas e jogos </li>
 <li> Atualmente estudando SQL, HTML, CSS e JavaScript </li>
+
+###
+
+<div> 
+ <h4 align="center"><pre>Atenção DEVS!!
+Não usem foto de anime no perfil!! 
+Isso demonstra para as empresas claramente que suas habilidades não são tão boas quanto a de outros devs,
+além de não demonstrar maturidade da sua parte.
+RT
+Lembrem-se: Braços cruzados, roupa social e sorriso de canto é a formula perfeita!</pre></h4>
+</div>
  
 ###
 
