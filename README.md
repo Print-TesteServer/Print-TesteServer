@@ -1,8 +1,9 @@
-<h2 align="left">👋:bearded_person: Olá! Me chamo Matheus</h2>
-<h3> Sou um Desenvolvedor Full Stack | Python | Django | JavaScript</h3>
+<h1 align="left">👋:bearded_person: Olá! Me chamo Matheus</h1>
+<h3> Futuro Engenheiro de Software </h3>
 <li> Estudante de Ciência da Computação | UNIP </li>
 <li> Amo Programação, automação de tarefas e jogos </li>
 <li> Atualmente estudando SQL, HTML, CSS e JavaScript </li>
+<h2 align="center"> Desenvolvedor Full Stack | Python | Django | JavaScript</h2>
 
 ###
 
@@ -14,7 +15,7 @@ além de não demonstrar maturidade da sua parte.
 RT
 Lembrem-se: Braços cruzados, roupa social e sorriso de canto é a formula perfeita!</pre></h4>
 </div>
- 
+
 ###
 
 <div align="center">
