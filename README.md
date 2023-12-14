@@ -1,4 +1,4 @@
-<h1 align="left">👋:bearded_person: Olá! Me chamo Matheus</h1>
+<h1 align="left">👋 :bearded_person: Olá! Me chamo Matheus</h1>
 <h3> Futuro Engenheiro de Software </h3>
 <li> Estudante de Ciência da Computação | UNIP </li>
 <li> Amo Programação, automação de tarefas e jogos </li>
