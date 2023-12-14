@@ -2,7 +2,7 @@
 <h3> Futuro Engenheiro de Software </h3>
 <li> Estudante de Ciência da Computação | UNIP </li>
 <li> Amo Programação, automação de tarefas e jogos </li>
-<li> Atualmente estudando Python, Django, SQL, PL/SQL  </li>
+<li> Atualmente estudando Python, Django, JavaScript, SQL, PL/SQL  </li>
 <h2 align="center"> Desenvolvedor Full Stack | Python | Django | JavaScript</h2>
 
 ###
@@ -42,8 +42,6 @@ Lembrem-se: Braços cruzados, roupa social e sorriso de canto é a formula perfe
 ###
 
 <br clear="both">
-
-![Snake animation](https://github.com/Print-TesteServer/Print-TesteServer/blob/output/github-contribution-grid-snake.svg)
 
 ###
                 
