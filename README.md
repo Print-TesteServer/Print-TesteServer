@@ -2,7 +2,7 @@
 <h3> Futuro Engenheiro de Software </h3>
 <li> Estudante de Ciência da Computação | UNIP </li>
 <li> Amo Programação, automação de tarefas e jogos </li>
-<li> Atualmente estudando SQL, HTML, CSS e JavaScript </li>
+<li> Atualmente estudando Python, Django, SQL, PL/SQL  </li>
 <h2 align="center"> Desenvolvedor Full Stack | Python | Django | JavaScript</h2>
 
 ###
