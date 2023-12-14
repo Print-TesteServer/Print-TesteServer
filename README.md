@@ -3,7 +3,7 @@
 <li> Estudante de Ciência da Computação | UNIP </li>
 <li> Amo Programação, automação de tarefas e jogos </li>
 <li> Atualmente estudando Python, Django, JavaScript, SQL, PL/SQL  </li>
-<h2 align="center"> Desenvolvedor Full Stack | Python | Django | JavaScript</h2>
+<h2 align="center"> Desenvolvedor de Software | Python | Django </h2>
 
 ###
 
