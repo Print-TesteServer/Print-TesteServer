@@ -2,7 +2,7 @@
 <h3> Futuro Engenheiro de Software </h3>
 <li> Estudante de Ciência da Computação | UNIP </li>
 <li> Amo Programação, automação de tarefas e jogos </li>
-<li> Atualmente estudando JavaScript, SQL, PL/SQL, APEX  </li>
+<li> Atualmente estudando JavaScript, SQL, PL/SQL </li>
 <h2 align="center"> Desenvolvedor de Software | Python | Django </h2>
 
 ###
