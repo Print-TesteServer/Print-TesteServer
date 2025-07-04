@@ -25,12 +25,10 @@ Lembrem-se: Braços cruzados, roupa social e sorriso de canto é a formula perfe
 </div>
  
 ###
- 
-<img align="right" width="350" src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif"  />
- 
-###
- 
+
 ## Conhecimentos:
+<img align="right" width="350" src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif"/>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="72" width="70" down="" alt="python logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="70" width="70" alt="js logo"/>
