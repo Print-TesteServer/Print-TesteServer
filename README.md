@@ -7,17 +7,6 @@
 
 ###
 
-<div> 
- <h4 align="center"><pre>Atenção DEVS!!
-Não usem foto de anime no perfil!! 
-Isso demonstra para as empresas claramente que suas habilidades não são tão boas quanto a de outros devs,
-além de não demonstrar maturidade da sua parte.
-RT
-Lembrem-se: Braços cruzados, roupa social e sorriso de canto é a formula perfeita!</pre></h4>
-</div>
-
-###
-
 <div align="center">
   <a href="https://github.com/Print-TesteServer">
   <img height="'180em" src="https://github-readme-stats.vercel.app/api?username=Print-TesteServer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
