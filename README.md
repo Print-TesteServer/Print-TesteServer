@@ -3,7 +3,7 @@
 <li> Formado em Ciência da Computação | UNIP </li>
 <li> Amo Programação, automação de tarefas e jogos </li>
 <li> Atualmente estudando JavaScript, MongoDB </li>
-<h2 align="center"> Desenvolvedor de Software WEB FullStack </h2>
+<h2 align="center"> Desenvolvedor WEB FullStack </h2>
 
 ###
 
