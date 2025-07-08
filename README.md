@@ -1,9 +1,9 @@
 <h1 align="left">👋 :bearded_person: Olá! Me chamo Matheus</h1>
-<h3> Futuro Engenheiro de Software </h3>
-<li> Estudante de Ciência da Computação | UNIP </li>
+<h3> Desenvolvedor de Software </h3>
+<li> Formado em Ciência da Computação | UNIP </li>
 <li> Amo Programação, automação de tarefas e jogos </li>
-<li> Atualmente estudando JavaScript, SQL, PL/SQL </li>
-<h2 align="center"> Desenvolvedor de Software | Python | Django </h2>
+<li> Atualmente estudando JavaScript, MongoDB </li>
+<h2 align="center"> Desenvolvedor de Software WEB FullStack </h2>
 
 ###
 
