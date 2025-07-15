@@ -2,7 +2,7 @@
 <h3> Desenvolvedor de Software </h3>
 <li> Formado em Ciência da Computação | UNIP </li>
 <li> Amo Programação, automação de tarefas e jogos </li>
-<li> Atualmente estudando JavaScript, MongoDB </li>
+<li> Atualmente estudando TypeScript, MongoDB</li>
 <h2 align="center"> Desenvolvedor WEB FullStack </h2>
 
 ###
