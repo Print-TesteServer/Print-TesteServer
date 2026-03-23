@@ -1,8 +1,8 @@
 <h1 align="left">👋 :bearded_person: Olá! Me chamo Matheus</h1>
-<h3> Desenvolvedor de Software </h3>
-<li> Formado em Ciência da Computação | UNIP </li>
+<h3> Engenheiro de Software</h3>
+<li> Formado em Ciência da Computação | UNIP & Técnico em Mecatrônica | ETEC </li>
 <li> Amo Programação, automação de tarefas e jogos </li>
-<li> Atualmente estudando TypeScript, MongoDB</li>
+<li> Atualmente estudo e aplico IA no desenvolvimento: workflows com LangChain e LangGraph, integração com LLMs, RAG e automação inteligente de processos </li>
 <h2 align="center"> Desenvolvedor WEB FullStack </h2>
 
 ###
