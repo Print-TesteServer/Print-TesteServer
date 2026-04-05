@@ -6,13 +6,14 @@
 <h2 align="center"> Desenvolvedor WEB FullStack </h2>
 
 ###
-
+API fora do ar.
+<!--
 <div align="center">
   <a href="https://github.com/Print-TesteServer">
   <img height="195em" src="https://github-readme-stats.vercel.app/api?username=Print-TesteServer&show_icons=true&theme=dracula"/>
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Print-TesteServer&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-    
+-->
 ###
 
 ## Conhecimentos:
